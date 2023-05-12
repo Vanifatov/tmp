@@ -76,6 +76,9 @@ Cafe o-> DrinkStrategy
 @enduml
 ```
 
+![str](https://github.com/Vanifatov/tmp/assets/90778174/8f3c9665-7f14-4879-b5be-f317012285c3)
+
+
 # Шаблонный метод
 
 PYTHON
@@ -159,3 +162,6 @@ DrinkMaker <|-down- TeaMaker
 DrinkMaker <|-down- CoffeeMaker
 @enduml
 ```
+
+![templ](https://github.com/Vanifatov/tmp/assets/90778174/b73a8c40-6d8e-4930-8010-9bce38d09004)
+
